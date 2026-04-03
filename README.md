@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence coursework
 
-My coursework from CSE 140 (Intro to AI) at UC Santa Cruz, built on top of the [Berkeley Pacman framework](http://ai.berkeley.edu/project_overview.html). Five projects that build on each other — starting with basic Python and search, ending with a competitive multi-agent tournament.
+My coursework from Artificial Intelligence Course at UC Santa Cruz, built on top of the [Berkeley Pacman framework](http://ai.berkeley.edu/project_overview.html). Five projects that build on each other — starting with basic Python and search, ending with a competitive multi-agent tournament.
 
 ### P0 — Python and Unix setup
 
